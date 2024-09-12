@@ -1,4 +1,4 @@
-# Overlapper  In----MAYA
+# Ribbon Tool
 +关于maya的飘带工具，使某些物体更加柔软
 
 +如有侵权请联系我删除，仅供学习交流
