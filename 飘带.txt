@@ -1,5 +1,8 @@
 //***********************************************//
-//                  找不到作者联系方式了               //
+//        以下链接已经失效,找不到原作者联系方式  //
+//     The following link is no longer valid, 	//
+//		and the original author's 	//
+//	contact information cannot be found.	//
 //           Overlapper release 1.1              //
 //    Tool for creating overlapping action       //
 //      copyright Dmitrii Kolpakov 2018          //
